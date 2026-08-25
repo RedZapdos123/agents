@@ -36,7 +36,7 @@ require (
 	golang.org/x/sync v0.19.0
 	golang.org/x/time v0.11.0
 	google.golang.org/grpc v1.78.0
-	google.golang.org/protobuf v1.36.11
+	google.golang.org/protobuf v1.36.12
 	gorm.io/driver/mysql v1.6.0
 	gorm.io/gorm v1.31.1
 	k8s.io/api v0.35.0
